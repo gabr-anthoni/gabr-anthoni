@@ -3,8 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=40&color=010C06&text=Seja%20bem-vindo(a)&fontColor=57ff9f&fontSize=27&fontAlign=50&fontAlignY=53" />
 </p>
 
+
 <!-- Imagem -->
-<img src="HelloWorld.gif" align="right" width="300" /><br />
+<img src="HelloWorld.gif" align="right" width="270" />
 
 <!-- Apresentação -->
 <h3>👋 Sobre mim</h3>
@@ -43,9 +44,9 @@
 <!-- Estatísticas -->
 <h3>📊 Estatísticas</h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabr-anthoni&show_icons=true&include_all_commits=true&count_private=true&bg_color=010C06&title_color=57ff9f&text_color=57ff9f&icon_color=57ff9f&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabr-anthoni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=010C06&title_color=57ff9f&text_color=57ff9f&icon_color=57ff9f&hide_border=true" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabr-anthoni&show_icons=true&include_all_commits=true&count_private=true&bg_color=010C06&title_color=57ff9f&text_color=57ff9f&icon_color=57ff9f&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabr-anthoni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=010C06&title_color=57ff9f&text_color=57ff9f&icon_color=57ff9f&hide_border=true" alt="languages graph" />
 </div>
 
 
